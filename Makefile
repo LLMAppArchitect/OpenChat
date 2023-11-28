@@ -1,8 +1,5 @@
-run1:
-	./run1.sh
-
-run2:
-	./run2.sh
+run:
+	./run.sh
 
 kill:
 	./kill.sh
