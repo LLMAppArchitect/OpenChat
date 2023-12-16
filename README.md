@@ -2,6 +2,12 @@
 Open Chat Learning
 ---
 
+## openchat/openchat-3.5-1210
+
+https://huggingface.co/openchat/openchat-3.5-1210
+
+
+
 # OpenChat: Advancing Open-source Language Models with Mixed-Quality Data
 
 <div align="center">
