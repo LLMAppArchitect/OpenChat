@@ -1,8 +1,5 @@
 run:
-	./run.sh
-
-run1210:
-	./run1210.sh
+	./run0106.sh
 
 kill:
 	./kill.sh

@@ -131,22 +131,10 @@ python gen_judgment.py --model-list openchat_3.5 --parallel 8 --mode single
 > [!NOTE]
 > Need [`pytorch`](https://pytorch.org/get-started/locally/#start-locally) to run OpenChat
 
-
-```shell
-# CUDA 11.7
-pip3 install torch==2.0.1 torchvision==0.15.2 torchaudio==2.0.2
-```
-
-
-## pip
-
-```bash
-pip3 install ochat
-```
-> [!IMPORTANT]
-> If you are facing package compatibility issues with pip, try the conda method below or check [this issue](https://github.com/imoneoi/openchat/issues/41)
-
+  
 ## conda
+
+> CN-LF-TCP
 
 ```bash
 conda create -y --name openchat python=3.11
